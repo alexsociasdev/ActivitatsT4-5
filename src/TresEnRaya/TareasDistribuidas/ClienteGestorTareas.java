@@ -1,4 +1,4 @@
-package TareasDistribuidas;
+package TresEnRaya.TareasDistribuidas;
 
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;

@@ -1,4 +1,4 @@
-package SistemaMensajesDistribuidos;
+package TresEnRaya.SistemaMensajesDistribuidos;
 
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;

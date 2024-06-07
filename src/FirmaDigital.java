@@ -52,6 +52,6 @@ public class FirmaDigital {
             System.out.println("Error en la verificación de la firma");
         }
 
-        src.close(); // Es importante cerrar el Scanner al final del uso para liberar recursos.
+        src.close();
     }
 }

@@ -1,4 +1,4 @@
-package TareasDistribuidas;
+package TresEnRaya.TareasDistribuidas;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
